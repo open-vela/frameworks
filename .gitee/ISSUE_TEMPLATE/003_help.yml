@@ -1,0 +1,22 @@
+name: 问题咨询
+title: "[问题咨询]"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您对 openvela 社区的支持与关注。
+
+  - type: textarea
+    id: question-description
+    attributes:
+      label: 描述
+      description: 请解释您的问题的背景或上下文，这有助于其他人更好地理解您的问题或疑问。
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        提交前请确认您已遵循以下步骤：
+          - 我已搜索 [openvela 文档](https://gitee.com/open-vela/docs)，但未找到问题的答案。
+          - 已搜索 [现有问题](https://gitee.com/open-vela/docs/issues)
