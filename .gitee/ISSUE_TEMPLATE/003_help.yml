@@ -18,5 +18,5 @@ body:
     attributes:
       value: |
         提交前请确认您已遵循以下步骤：
-          - 我已搜索 [openvela 文档](https://gitee.com/open-vela/docs)，但未找到问题的答案。
-          - 已搜索 [现有问题](https://gitee.com/open-vela/docs/issues)
+          - 我已搜索 [openvela 文档](../)，但未找到问题的答案。
+          - 已搜索 [现有问题](./)

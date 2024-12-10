@@ -30,5 +30,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        提交前请搜索 [现有功能需求](https://gitee.com/open-vela/docs/issues)
+        提交前请搜索 [现有功能需求](./)
 

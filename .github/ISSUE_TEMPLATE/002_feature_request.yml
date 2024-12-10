@@ -21,8 +21,8 @@ body:
         Hello openvela Community member! Please keep things tidy by putting your post in the proper place:
 
         Requesting a new feature: use this form.
-        Asking a question or getting help: use the [General Help](https://github.com/open-vela/docs/issues/new?assignees=&labels=Community%3A+Question&projects=&template=003_help.yml&title=%5BHELP%5D+%3Ctitle%3E) form.
-        Reporting a bug: use the [Bug report](https://github.com/open-vela/docs/issues/new?assignees=&labels=%F0%9F%91%80+needs+triage%2CType%3A+Bug&projects=&template=001_bug_report.yml&title=%5BBUG%5D+%3Ctitle%3E) form.
+        Asking a question or getting help: use the [General Help](./new?assignees=&labels=Community%3A+Question&projects=&template=003_help.yml&title=%5BHELP%5D+%3Ctitle%3E) form.
+        Reporting a bug: use the [Bug report](./new?assignees=&labels=%F0%9F%91%80+needs+triage%2CType%3A+Bug&projects=&template=001_bug_report.yml&title=%5BBUG%5D+%3Ctitle%3E) form.
 
   - type: textarea
     id: question-description
@@ -52,4 +52,4 @@ body:
         ### Before You Submit
 
         Please verify that you've followed these steps:
-          - Search [existing feature requests](https://github.com/open-vela/docs/issues) (including [closed](https://github.com/open-vela/docs/issues?q=is%3Aissue+is%3Aclosed))
+          - Search [existing feature requests](./) (including [closed](./?q=is%3Aissue+is%3Aclosed))

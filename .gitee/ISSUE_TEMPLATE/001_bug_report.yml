@@ -35,6 +35,6 @@ body:
     attributes:
       value: |
         提交前请确认您已遵循以下步骤：
-          - 确认问题在 [**dev**](https://gitee.com/open-vela/docs) 上可重现。
+          - 确认问题在 [**dev**](../) 上可重现。
           - 遇到构建问题时运行 `make distclean`。
-          - 搜索 [现有问题](https://gitee.com/open-vela/docs/issues)
+          - 搜索 [现有问题](./)
