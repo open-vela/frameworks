@@ -22,8 +22,8 @@
 | [frameworks_runtimes_typescript_ts2native](../../../../open-vela/frameworks_runtimes_typescript_ts2native) | 该仓库提供了 `openvela` 中将 `TypeScript` 转换为原生代码的核心框架和示例。 |
 | [frameworks_runtimes_typescript_ts2wasm](../../../../open-vela/frameworks_runtimes_typescript_ts2wasm) | 该仓库是 `openvela` 中将 `TypeScript` 语言转换为 `Wasm` 字节码的核心框架和示例，旨在提高 `TypeScript` 的运行性能。 |
 | [frameworks_runtimes_wasm](../../../../open-vela/frameworks_runtimes_wasm) | 该仓库提供了 `openvela` Wasm 运行时环境的部分示例和扩展 API 实现，使用该框架可以快速将系统的能力导入到 Wasm 运行时环境中。 |
-| [frameworks_security](../../../../open-vela/frameworks_security) | 该仓库主要包含了 `openvela TEE` 默认的安全应用 `TA` 和 `CA` 实现。 |
-| [frameworks_security_optee_vela](../../../../open-vela/frameworks_security_optee_vela) | 该仓库提供了兼容 `openvela` 内核的 `OPTEE` 框架实现，使用 `OPTEE` 框架可以快速接入 `openvela` 系统，无需了解 `openvela` 架构层的细节。 |
+| [frameworks_security](../../../../open-vela/frameworks_security) | 该仓库主要包含了 `openvela TEE（Trusted Execution Environment）` 默认的安全应用 `TA（Trusted Application）` 和 `CA（Client Application）` 实现。 |
+| [frameworks_security_optee_vela](../../../../open-vela/frameworks_security_optee_vela) | 该仓库提供了兼容 `openvela` 内核的 `OPTEE（Open Portable Trusted Execution Environment）` 框架实现，使用 `OPTEE` 框架可以快速接入 `openvela` 系统，无需了解 `openvela` 架构层的细节。 |
 | [frameworks_system_binder](../../../../open-vela/frameworks_system_binder) | 该仓库提供了 `Binder` 各种场景的示例、性能测试程序，以及 `C` 语言版本的实现，旨在支持 `Binder` 的学习和开发。 |
 | [frameworks_system_charger](../../../../open-vela/frameworks_system_charger) | 该仓库提供了 `openvela` 充电服务，用于监控和管理电池充电过程，包括温控、限流和停复充等场景，确保电池安全快速充电。 |
 | [frameworks_system_healthd](../../../../open-vela/frameworks_system_healthd) | 该仓库提供了 `openvela` 电池信息监控服务，通过 `battery_state` 主题向外发布，供应用通过 `uORB` 框架订阅。 |
