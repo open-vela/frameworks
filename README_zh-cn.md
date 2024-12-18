@@ -19,7 +19,7 @@
 | [frameworks_runtimes_services_system_server](../../../../open-vela/frameworks_runtimes_services_system_server) | 该仓库实现了 `openvela` 在多应用框架下启动和管理多个系统服务的功能，包括应用管理、包管理、窗口管理和亮度管理服务。 |
 | [frameworks_runtimes_services_wm](../../../../open-vela/frameworks_runtimes_services_wm) | 该仓库实现了 `openvela` 在多应用框架下的窗口管理功能，包括输入、输出和显示管理等能力。 |
 | [frameworks_runtimes_services_xmsdemo](../../../../open-vela/frameworks_runtimes_services_xmsdemo) | 该仓库提供了 `openvela` 在多应用框架下的应用开发 demo，适合初学者和开发者快速上手。 |
-| [frameworks_runtimes_typescript_ts2native](../../../../open-vela/frameworks_runtimes_typescript_ts2native) | 该仓库提供了 `openvela` 中将 `TypeScript` 转换为原生代码的核心框架和示例。 |
+| [frameworks_runtimes_typescript_ts2native](../../../../open-vela/frameworks_runtimes_typescript_ts2native) | 该仓库提供了 `openvela` 中将 `TypeScript` 转换为 `Native` 代码的核心框架和示例。 |
 | [frameworks_runtimes_typescript_ts2wasm](../../../../open-vela/frameworks_runtimes_typescript_ts2wasm) | 该仓库是 `openvela` 中将 `TypeScript` 语言转换为 `Wasm` 字节码的核心框架和示例，旨在提高 `TypeScript` 的运行性能。 |
 | [frameworks_runtimes_wasm](../../../../open-vela/frameworks_runtimes_wasm) | 该仓库提供了 `openvela` Wasm 运行时环境的部分示例和扩展 API 实现，使用该框架可以快速将系统的能力导入到 Wasm 运行时环境中。 |
 | [frameworks_security](../../../../open-vela/frameworks_security) | 该仓库主要包含了 `openvela TEE（Trusted Execution Environment）` 默认的安全应用 `TA（Trusted Application）` 和 `CA（Client Application）` 实现。 |
