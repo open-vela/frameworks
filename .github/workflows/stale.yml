@@ -6,6 +6,6 @@ on:
 
 jobs:
   stale:
-    uses: open-vela/public-actions/.github/workflows/stale.yml@trunk
+    uses: open-vela/public-actions/.github/workflows/stale.yml@dev
     secrets: inherit
 
